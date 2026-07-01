@@ -1,0 +1,38 @@
+canonical_identifier: bkk:krp/KR6j0235/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0235/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩說普賢陀羅尼經
+  identifiers:
+    krp: KR6j0235
+    cbeta: T20n1037
+    cbeta_old_id: T20n1037
+    authorityid: CA0001272
+    json_key: T1037
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1037.xml
+    old_id: T20n1037
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0235_000-T.yaml, hash: 'sha256:b33aac87720ab4b7d8e43d6dc8a9b7f9e2f7d819df38b9cf210f80e246f76492'}
+  - {seq: 1, filename: KR6j0235_001-T.yaml, hash: 'sha256:a66fd70a9f009cd7ce1890172d2ed3efe410ab91e2585aafb9d9d1592967839c'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0235_000-T.markers.yaml, hash: 'sha256:3bd08f2f0374dfb063562cb8e2b1ba51bc3ad12845869a2ae864a01319074700'}
+  - {seq: 1, role: markers, filename: assets/KR6j0235_001-T.markers.yaml, hash: 'sha256:597a1b39bfef29219fe4f50dbfb9b02132398aa4d3d3a410d3a019d9f2bacf1b'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0235_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1639
+  label: 觀自在菩薩說普賢陀羅尼經
+  type: juan
+  level: 1
+hash: sha256:5ebd330743fdbd89dd133a700ef7178e74d9688f25026dfc67bfcfd3eec341f5

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0235/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩說普賢陀羅尼經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1037.xml
+    old_id: T20n1037
+hash: sha256:b33aac87720ab4b7d8e43d6dc8a9b7f9e2f7d819df38b9cf210f80e246f76492
