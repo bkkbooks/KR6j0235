@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0235_000.yaml, hash: 'sha256:b33aac87720ab4b7d8e43d6dc8a9b7f9e2f7d819df38b9cf210f80e246f76492'}
-  - {seq: 1, filename: KR6j0235_001.yaml, hash: 'sha256:113928634f01b160abf14bd0b515d29f397881173d370fb9f6b6f3a369fc7e62'}
+  - {seq: 1, filename: KR6j0235_001.yaml, hash: 'sha256:a66fd70a9f009cd7ce1890172d2ed3efe410ab91e2585aafb9d9d1592967839c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0235_001.markers.yaml, hash: 'sha256:699231b26ff747686ac94420cab89739f2f3691d762486ef2be3b0812d230b37'}
+  - {seq: 0, role: markers, filename: assets/KR6j0235_000.markers.yaml, hash: 'sha256:f886783ade59a41f93a9fbbe7aa6a2628b4e46c50de742dae5fd9ecf64a6a2ab'}
+  - {seq: 1, role: markers, filename: assets/KR6j0235_001.markers.yaml, hash: 'sha256:b160a6a1565defc99a0a0dedc6fc74e28116b7817bee071f71085a093d85cbbc'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 觀自在菩薩說普賢陀羅尼經
   type: juan
   level: 1
-hash: sha256:ab5c61453c3c3e266e737cf318e98fcdc9ddc9d77a843c664d8c473749a5d19e
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:3af07a76d34a6e49e3be0a59ac5d26b3763f17816c62330fd83fbc50454d9a4e
