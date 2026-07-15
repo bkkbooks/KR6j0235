@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0235/v1
 canonical_location: https://kanripo.org/bkk/KR6j0235/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 觀自在菩薩說普賢陀羅尼經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0235_000.yaml, hash: 'sha256:b33aac87720ab4b7d8e43d6dc8a9b7f9e2f7d819df38b9cf210f80e246f76492'}
-  - {seq: 1, filename: KR6j0235_001.yaml, hash: 'sha256:a66fd70a9f009cd7ce1890172d2ed3efe410ab91e2585aafb9d9d1592967839c'}
+  - {seq: 1, filename: KR6j0235_001.yaml, hash: 'sha256:b85a00a3e799e70ce6e3187d9fee5ee5622166381e6667a20bd359608d399cec'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0235_000.markers.yaml, hash: 'sha256:f886783ade59a41f93a9fbbe7aa6a2628b4e46c50de742dae5fd9ecf64a6a2ab'}
-  - {seq: 1, role: markers, filename: assets/KR6j0235_001.markers.yaml, hash: 'sha256:b160a6a1565defc99a0a0dedc6fc74e28116b7817bee071f71085a093d85cbbc'}
+  - {seq: 1, role: markers, filename: assets/KR6j0235_001.markers.yaml, hash: 'sha256:a1bb0e35cc0c32fd76ecb9ff62abd426729bcc19dd4cd0a16b474c1700991505'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 觀自在菩薩說普賢陀羅尼經
   type: juan
   level: 1
-hash: sha256:3af07a76d34a6e49e3be0a59ac5d26b3763f17816c62330fd83fbc50454d9a4e
+hash: sha256:9fb8cdfb7a65793ba57025fc458897be266884a89472df1ad6a0a3a3ef93717b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
